@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Vinith Amma
+- Working in TCS Associate Systems Engineer 
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning DevOps with AWS
+- 📫 How to reach me
+- Linkdin VINITH AMMA
+- Gmail vinithamma007@gmail.com 
