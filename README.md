@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vinith Amma
-- Working in TCS as Associate Systems Engineer 
+- Working in TCS as Systems Engineer 
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning DevOps with AWS
 - 📫 How to reach me
